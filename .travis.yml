@@ -3,6 +3,13 @@ cache: packages
 pandoc_version: 2.3.1
 sudo: false
 
+addons:
+  apt:
+    sources:
+    - sourceline: 'ppa:opencpu/imagemagick'
+    packages:
+    - libmagick++-dev
+
 cache:
 packages: yes
 directories:
