@@ -1,3 +1,12 @@
 #  Tikz
 
 Minimal tikz example.
+
+```{tikz}
+\begin{tikzpicture}
+
+\draw (0,0) rectangle (2,3);
+
+\end{tikzpicture}
+```
+
