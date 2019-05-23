@@ -7,8 +7,10 @@ addons:
   apt:
     sources:
     - sourceline: 'ppa:opencpu/imagemagick'
+    - sourceline: 'ppa:opencpu/poppler'
     packages:
     - libmagick++-dev
+    - libpoppler-cpp-dev
 
 cache:
 packages: yes
