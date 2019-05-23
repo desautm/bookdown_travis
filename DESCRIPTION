@@ -4,6 +4,7 @@ Title: Does not matter.
 Version: 0.0.1
 URL: https://github.com/desautm/bookdown_travis
 Imports: 
-  bookdown
+  bookdown,
+  Rcpp
 Remotes:
   ropensci/magick
