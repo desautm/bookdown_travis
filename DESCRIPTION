@@ -6,4 +6,4 @@ URL: https://github.com/desautm/bookdown_travis
 Imports: 
   bookdown
 Remotes:
-  magick
+  ropensci/magick
