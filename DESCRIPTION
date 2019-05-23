@@ -5,5 +5,6 @@ Version: 0.0.1
 URL: https://github.com/desautm/bookdown_travis
 Imports: 
   bookdown,
-  magick
+  magick,
+  pdftools
 
