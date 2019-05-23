@@ -1,0 +1,10 @@
+# Tikz {#tikz}
+
+```{tikz, echo=FALSE, fig.cap = "Tikz example.", fig.ext = 'png', cache=TRUE, fig.align="center", out.width="50%"}
+\begin{tikzpicture}
+
+\draw (0,0) rectangle (2,4);
+
+\end{tikzpicture}
+```
+
